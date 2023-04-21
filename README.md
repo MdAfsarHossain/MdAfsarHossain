@@ -36,3 +36,4 @@
 
 ![Afsar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MdAfsarHossain)
 
+![GitHub metrics](https://metrics.lecoq.io/MdAfsarHossain)
