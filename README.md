@@ -34,6 +34,6 @@
 
 ### GitHub Stats
 
-![Afsar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MdAfsarHossain)
+![Afsar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mdafsarhossain)
 
-![GitHub metrics](https://metrics.lecoq.io/MdAfsarHossain)
+![GitHub metrics](https://metrics.lecoq.io/mdafsarhossain)
