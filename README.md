@@ -39,6 +39,12 @@
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td><a href="https://haven-estate-authentication.firebaseapp.com/" target="_blank">Haven Estate</a></td>
+      <td>The 𝗛𝗮𝘃𝗲𝗻 𝗘𝘀𝘁𝗮𝘁𝗲  is a website designed for 𝗯𝘂𝘆𝗶𝗻𝗴, 𝘀𝗲𝗹𝗹𝗶𝗻𝗴, 𝗮𝗻𝗱 𝗿𝗲𝗻𝘁𝗶𝗻𝗴 properties. Users can list their homes for 𝘀𝗮𝗹𝗲 𝗼𝗿 𝗿𝗲𝗻𝘁, with each property categorized accordingly. House listings include essential 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 such as 𝒏𝒂𝒎𝒆, 𝒍𝒐𝒄𝒂𝒕𝒊𝒐𝒏, 𝒑𝒓𝒊𝒄𝒆, 𝒂𝒏𝒅 𝒂𝒓𝒆𝒂, 𝒘𝒊𝒕𝒉 𝒇𝒖𝒍𝒍 𝒅𝒆𝒔𝒄𝒓𝒊𝒑𝒕𝒊𝒐𝒏𝒔, 𝒔𝒖𝒎𝒎𝒂𝒓𝒊𝒆𝒔, 𝒂𝒏𝒅 𝒂𝒎𝒆𝒏𝒊𝒕𝒊𝒆𝒔 available for logged-in users. Future updates will feature a 𝗹𝗼𝗰𝗮𝘁𝗶𝗼𝗻 𝗺𝗮𝗽 for properties. Users can manage their 𝗽𝗿𝗼𝗳𝗶𝗹𝗲𝘀, and the site is fully responsive across various devices. </td>
+      <td>HTML, CSS, Tailwind, DaisyUI, JavaScript, ES6, API, React, React Router, Firebase</td>
+      <td><a href="https://github.com/MdAfsarHossain/Haven-Estate-React" target="_blank">Click</a></td>
+    </tr>
     <tr>
       <td><a href="https://afsarhossain.pythonanywhere.com/" target="_blank">Food Shop</a></td>
       <td>Implemented user Authentication system allowing users to easily sign up, log in and manage their accounts. Allowed users to rate and review items they've ordered. "Specials" section with discounted items.</td>
