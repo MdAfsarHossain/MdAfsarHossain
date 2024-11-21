@@ -63,6 +63,12 @@
       <td>Django, HTML, CSS, Bootstrap, JavaScript</td>
       <td><a href="https://github.com/MdAfsarHossain/book_store" target="_blank">Click</a></td>
     </tr>
+       <tr>
+      <td><a href="https://mdafsarhossain-find-job.surge.sh/" target="_blank">Find Job</a></td>
+      <td>"𝗙𝗶𝗻𝗱 𝗝𝗼𝗯" designed to help users easily discover and apply for jobs across various categories such as 𝙤𝒏𝙨𝒊𝙩𝒆, 𝙧𝒆𝙢𝒐𝙩𝒆, 𝙛𝒖𝙡𝒍-𝒕𝙞𝒎𝙚, 𝒑𝙖𝒓𝙩-𝙩𝒊𝙢𝒆, 𝙖𝒏𝙙 𝙝𝒚𝙗𝒓𝙞𝒅. Users can apply for as many jobs as they wish, with each application triggering a toast notification and saving the job ID in the browser's local storage. This allows them to view their applied jobs even after returning to the site later. The "𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗝𝗼𝗯𝘀" section also features filters based on job type, making it easier to manage applications. We're currently working on a blog section, which will be added in the future.</td>
+      <td>HTML, CSS, Tailwind, DaisyUI, JavaScript, ES6, API, React, React Router</td>
+      <td><a href="https://github.com/MdAfsarHossain/Find-Job-React" target="_blank">Click</a></td>
+    </tr>
     <tr>
       <td><a href="https://mdafsarhossain-gadget-heaven.surge.sh/" target="_blank">Gadget Heaven </a></td>
       <td>Gadget Heaven is an e-commerce platform dedicated to selling the latest gadgets. It features a structured navigation bar, category-based sidebar, and individual product pages with detailed specifications. Users can add items to a shopping cart or wishlist, view a summary dashboard, and sort items by price. Using the Context API the platform supports data persistence for cart and wishlist functionalities. The responsive design ensures a smooth user experience across devices, and unique elements, such as a modal-based purchase confirmation and price vs. product stats chart, enhance engagement.</td>
@@ -74,6 +80,12 @@
       <td>Squad Builder BPL is an interactive website designed for the upcoming Bangladesh Premier League, allowing cricket teams to build their dream squad by selecting players from various countries. The platform showcases player details such as images, names, roles, countries, and bidding prices. Each team can choose up to 6 players, adhering to a set budget. If a player is already selected or exceeds the budget, notifications alert the user. The total budget can be increased by claiming free credits. The site features a responsive design, including a navbar, banner, player sections, newsletter, and footer, ensuring a seamless experience across all devices..</td>
       <td>HTML, CSS, Tailwind, DaisyUI, JavaScript, ES6, API, React</td>
       <td><a href="https://github.com/MdAfsarHossain/Gadget-Heaven-React" target="_blank">Click</a></td>
+    </tr>
+     <tr>
+      <td><a href="https://mdafsarhossain-book-store.netlify.app/" target="_blank">Book Store</a></td>
+      <td>The "𝗕𝗼𝗼𝗸 𝗦𝘁𝗼𝗿𝗲" website allows users to explore a wide selection of books, view detailed information, and manage their reading lists. Each book detail page includes "𝗪𝗶𝘀𝗵𝗹𝗶𝘀𝘁" and "𝗥𝗲𝗮𝗱" buttons. When users add a book to either list, the book's ID is saved in the browser's 𝗹𝗼𝗰𝗮𝗹 𝘀𝘁𝗼𝗿𝗮𝗴𝗲, ensuring the lists persist across sessions. If a book is already read, it cannot be added to the wishlist again. Toast notifications confirm when a book is added to either list. The site also features sections for 𝘁𝗿𝗮𝗰𝗸𝗶𝗻𝗴 wishlist and read books, along with a "𝗣𝗮𝗴𝗲𝘀 𝗥𝗲𝗮𝗱" section that displays how many books and pages the user has read.</td>
+      <td>HTML, CSS, Tailwind, DaisyUI, JavaScript, ES6, API, React</td>
+      <td><a href="https://github.com/MdAfsarHossain/Book-Store-React" target="_blank">Click</a></td>
     </tr>
     <tr>
       <td><a href="https://mdafsarhossain-fur-angels-haven.surge.sh/" target="_blank">Fur Angels</a></td>
