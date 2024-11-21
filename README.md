@@ -27,6 +27,57 @@
 <h2 align="left">Languages and Tools: <img src="https://github.com/MdAfsarHossain/MdAfsarHossain/blob/main/tools.webp" width="40px" height="40px"> </h2>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
 
+### My Projects
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Description</b></td>
+      <td><b>Technology Used</b></td>
+      <td><b>Source Code</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://afsarhossain.pythonanywhere.com/" target="_blank">Food Shop</a></td>
+      <td>Implemented user Authentication system allowing users to easily sign up, log in and manage their accounts. Allowed users to rate and review items they've ordered. "Specials" section with discounted items.</td>
+      <td>Django, HTML, CSS, Bootstrap, JavaScript</td>
+      <td><a href="https://github.com/MdAfsarHossain/food_shop" target="_blank">Click</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://airbnb-ou7u.onrender.com/listings" target="_blank">Airbnb</a></td>
+      <td>Users can explore different hotels. Authenticated users can leave reviews for hotels. Authenticated users can add different hotel names, addresses, photos and prices.</td>
+      <td>HTML, CSS, Bootstrap, JavaScript, Express, MongoDB</td>
+      <td><a href="https://github.com/MdAfsarHossain/airbnb" target="_blank">Click</a></td>
+    </tr>
+     <tr>
+      <td><a href="https://afsarhossainbookstore.pythonanywhere.com/" target="_blank">Book Store</a></td>
+      <td>Implemented user Authentication system allowing users to easily sign up, log in and manage their accounts. Allowed users to rate and review items they've ordered. "Specials" section with discounted items.</td>
+      <td>Django, HTML, CSS, Bootstrap, JavaScript</td>
+      <td><a href="https://github.com/MdAfsarHossain/book_store" target="_blank">Click</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://mdafsarhossain-gadget-heaven.surge.sh/" target="_blank">Gadget Heaven </a></td>
+      <td>Gadget Heaven is an e-commerce platform dedicated to selling the latest gadgets. It features a structured navigation bar, category-based sidebar, and individual product pages with detailed specifications. Users can add items to a shopping cart or wishlist, view a summary dashboard, and sort items by price. Using the Context API the platform supports data persistence for cart and wishlist functionalities. The responsive design ensures a smooth user experience across devices, and unique elements, such as a modal-based purchase confirmation and price vs. product stats chart, enhance engagement.</td>
+      <td>HTML, CSS, Tailwind, DaisyUI, JavaScript, ES6, API, React, React Router</td>
+      <td><a href="https://github.com/MdAfsarHossain/Gadget-Heaven-React" target="_blank">Click</a></td>
+    </tr>
+      <tr>
+      <td><a href="http://mdafsarhossain-squad-builder-bpl.surge.sh/" target="_blank">Squad Builder BPL</a></td>
+      <td>Squad Builder BPL is an interactive website designed for the upcoming Bangladesh Premier League, allowing cricket teams to build their dream squad by selecting players from various countries. The platform showcases player details such as images, names, roles, countries, and bidding prices. Each team can choose up to 6 players, adhering to a set budget. If a player is already selected or exceeds the budget, notifications alert the user. The total budget can be increased by claiming free credits. The site features a responsive design, including a navbar, banner, player sections, newsletter, and footer, ensuring a seamless experience across all devices..</td>
+      <td>HTML, CSS, Tailwind, DaisyUI, JavaScript, ES6, API, React</td>
+      <td><a href="https://github.com/MdAfsarHossain/Gadget-Heaven-React" target="_blank">Click</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://mdafsarhossain-fur-angels-haven.surge.sh/" target="_blank">Fur Angels</a></td>
+      <td>Fur Angels Haven is a responsive pet adoption website featuring a Navbar, Banner, Categories, Pets Display, and Footer section. The site dynamically displays all pet categories fetched from an API, allowing users to filter pets by category. Each pet card displays key details such as image, name, breed, birth, gender, price, pet details, and vaccination status. Users can like pets, view their details, and adopt them through a modal confirmation with a countdown. After adopting a pet, users cannot adopt the same pet again, and the Adopt button is disabled. The website adapts seamlessly to mobile, tablet, and desktop views.</td>
+      <td>HTML, CSS, Tailwind, DaisyUI, JavaScript, ES6, API</td>
+      <td><a href="https://github.com/MdAfsarHossain/Fur-Angels-API" target="_blank">Click</a></td>
+    </tr>
+  </tbody>
+</table>
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdafsarhossain&show_icons=true&locale=en&layout=compact" alt="mdafsarhossain" /></p> -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdafsarhossain&show_icons=true&theme=tokyonight&locale=en" alt="mdafsarhossain" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdafsarhossain&show_icons=true&theme=tokyonight&locale=en" alt="mdafsarhossain" /></p>
