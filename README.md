@@ -79,7 +79,7 @@
       <td><a href="http://mdafsarhossain-squad-builder-bpl.surge.sh/" target="_blank">Squad Builder BPL</a></td>
       <td>Squad Builder BPL is an interactive website designed for the upcoming Bangladesh Premier League, allowing cricket teams to build their dream squad by selecting players from various countries. The platform showcases player details such as images, names, roles, countries, and bidding prices. Each team can choose up to 6 players, adhering to a set budget. If a player is already selected or exceeds the budget, notifications alert the user. The total budget can be increased by claiming free credits. The site features a responsive design, including a navbar, banner, player sections, newsletter, and footer, ensuring a seamless experience across all devices..</td>
       <td>HTML, CSS, Tailwind, DaisyUI, JavaScript, ES6, API, React</td>
-      <td><a href="https://github.com/MdAfsarHossain/Gadget-Heaven-React" target="_blank">Click</a></td>
+      <td><a href="https://github.com/MdAfsarHossain/Squad-Builder-BPL-React" target="_blank">Click</a></td>
     </tr>
      <tr>
       <td><a href="https://mdafsarhossain-book-store.netlify.app/" target="_blank">Book Store</a></td>
