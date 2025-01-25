@@ -142,16 +142,20 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdafsarhossain&show_icons=true&locale=en&layout=compact" alt="mdafsarhossain" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdafsarhossain&theme=tokyonight" alt="mdafsarhossain" /></p> -->
+### GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MdAfsarHossain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MdAfsarHossain&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAfsarHossain&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdafsarhossain&theme=tokyonight" alt="mdafsarhossain" />
 </div>
-
+<!--
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MdAfsarHossain&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+-- >
 ###
 
-### GitHub Stats
 
 ![Afsar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mdafsarhossain)
 
