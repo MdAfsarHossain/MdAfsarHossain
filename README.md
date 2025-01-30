@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/MdAfsarHossain/MdAfsarHossain/blob/main/LinkedinBanner.png)
+![MasterHead](https://github.com/MdAfsarHossain/MdAfsarHossain/blob/main/full_stack_developer_Banner.png)
 <h1 align="center">Hi <img src="https://github.com/MdAfsarHossain/MdAfsarHossain/blob/main/hi.gif" width="50px" height="50px"/>, I'm Md. Afsar Hossain</h1>
 
 <h2>Full Stack Developer.</h2>
