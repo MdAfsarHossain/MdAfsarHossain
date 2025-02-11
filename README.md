@@ -64,7 +64,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-### My Projects
+### My Top 10 Projects
 
 <table>
   <thead align="center">
@@ -77,14 +77,32 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://scholarplus-c83e6.web.app" target="_blank">Scholar Pulse</a></td>
+      <td>The SCHOLAR PULSE is a comprehensive platform designed to simplify the process of discovering, managing, and applying for scholarships. The system supports three user roles: users, moderators, and admins. Users can browse and apply for scholarships, while moderators and admins manage scholarship entries. </td>
+      <td>HTML, CSS, Tailwind CSS, Daisy UI, JavaScript, React, React Router, Node.js, Express.js, MongoDB, Firebase, ES6.</td>
+      <td><a href="https://github.com/MdAfsarHossain/Scholar-Pulse-Client" target="_blank">Click</a></td>
+    </tr>   
+    <tr>
+      <td><a href="https://historicgems-e6d80.web.app" target="_blank">Historic Gems </a></td>
+      <td>The Historic Gems is a web application designed to document, explore, and celebrate humanity's most significant historical treasures. This platform provides users with a comprehensive database of artifacts, featuring detailed information such as images, names, types, historical contexts, discovery details, and current locations.</td>
+      <td>HTML, CSS, Tailwind CSS, Daisy UI, JavaScript, React, React Router, Node.js, Express.js, MongoDB, Firebase, ES6.</td>
+      <td><a href="https://github.com/MdAfsarHossain/Historic-Gems-Client" target="_blank">Click</a></td>
+    </tr> 
+     <tr>
+      <td><a href="https://world-pass-express.web.app" target="_blank">World Pass Express</a></td>
+      <td>World Pass Express is a modern Visa Navigator platform designed to simplify the process of understanding visa requirements, applying for visas, and tracking application statuses. This platform caters to a global audience, providing country-specific visa details, real-time updates, and a user-friendly interface for seamless navigation.</td>
+      <td>HTML, CSS, Tailwind CSS, Daisy UI, JavaScript, React, React Router, Node.js, Express.js, MongoDB, Firebase, ES6.</td>
+      <td><a href="https://github.com/MdAfsarHossain/World-Pass-Express-Client" target="_blank">Click</a></td>
+    </tr> 
+    <tr>
       <td><a href="https://tourista-hub.web.app/" target="_blank">Tourism Management Spot</a></td>
-      <td>The Tourism Management Spot is a responsive web application designed for tourists to explore famous places across various countries. It allows users to log in for full access to features like viewing detailed information about tourist spots, adding their own spots, and interacting with other users' spots through reviews and ratings. The platform ensures a user-friendly experience across devices and includes plans for map integration in the future.</td>
+      <td>The Tourism Management Spot is a responsive web application designed for tourists to explore famous places across various countries. It allows users to log in for full access to features like viewing detailed information about tourist spots, adding their own spots, and interacting with other users' spots through reviews and ratings.</td>
       <td>HTML, CSS, Tailwind CSS, Daisy UI, JavaScript, React, React Router, Node.js, Express.js, MongoDB, Firebase, ES6.</td>
       <td><a href="https://github.com/MdAfsarHossain/Tourism-Management-System-Client" target="_blank">Click</a></td>
     </tr> 
     <tr>
       <td><a href="https://haven-estate-authentication.firebaseapp.com/" target="_blank">Haven Estate</a></td>
-      <td>The 𝗛𝗮𝘃𝗲𝗻 𝗘𝘀𝘁𝗮𝘁𝗲  is a website designed for 𝗯𝘂𝘆𝗶𝗻𝗴, 𝘀𝗲𝗹𝗹𝗶𝗻𝗴, 𝗮𝗻𝗱 𝗿𝗲𝗻𝘁𝗶𝗻𝗴 properties. Users can list their homes for 𝘀𝗮𝗹𝗲 𝗼𝗿 𝗿𝗲𝗻𝘁, with each property categorized accordingly. House listings include essential 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 such as 𝒏𝒂𝒎𝒆, 𝒍𝒐𝒄𝒂𝒕𝒊𝒐𝒏, 𝒑𝒓𝒊𝒄𝒆, 𝒂𝒏𝒅 𝒂𝒓𝒆𝒂, 𝒘𝒊𝒕𝒉 𝒇𝒖𝒍𝒍 𝒅𝒆𝒔𝒄𝒓𝒊𝒑𝒕𝒊𝒐𝒏𝒔, 𝒔𝒖𝒎𝒎𝒂𝒓𝒊𝒆𝒔, 𝒂𝒏𝒅 𝒂𝒎𝒆𝒏𝒊𝒕𝒊𝒆𝒔 available for logged-in users. Future updates will feature a 𝗹𝗼𝗰𝗮𝘁𝗶𝗼𝗻 𝗺𝗮𝗽 for properties. Users can manage their 𝗽𝗿𝗼𝗳𝗶𝗹𝗲𝘀, and the site is fully responsive across various devices. </td>
+      <td>The 𝗛𝗮𝘃𝗲𝗻 𝗘𝘀𝘁𝗮𝘁𝗲  is a website designed for 𝗯𝘂𝘆𝗶𝗻𝗴, 𝘀𝗲𝗹𝗹𝗶𝗻𝗴, 𝗮𝗻𝗱 𝗿𝗲𝗻𝘁𝗶𝗻𝗴 properties. Users can list their homes for 𝘀𝗮𝗹𝗲 𝗼𝗿 𝗿𝗲𝗻𝘁, with each property categorized accordingly. House listings include essential 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 such as 𝒏𝒂𝒎𝒆, 𝒍𝒐𝒄𝒂𝒕𝒊𝒐𝒏, 𝒑𝒓𝒊𝒄𝒆, 𝒂𝒏𝒅 𝒂𝒓𝒆𝒂, 𝒘𝒊𝒕𝒉 𝒇𝒖𝒍𝒍 𝒅𝒆𝒔𝒄𝒓𝒊𝒑𝒕𝒊𝒐𝒏𝒔, 𝒔𝒖𝒎𝒎𝒂𝒓𝒊𝒆𝒔, 𝒂𝒏𝒅 𝒂𝒎𝒆𝒏𝒊𝒕𝒊𝒆𝒔 available for logged-in users.</td>
       <td>HTML, CSS, Tailwind, DaisyUI, JavaScript, ES6, API, React, React Router, Firebase</td>
       <td><a href="https://github.com/MdAfsarHossain/Haven-Estate-React" target="_blank">Click</a></td>
     </tr>
@@ -108,33 +126,15 @@
     </tr>
        <tr>
       <td><a href="https://mdafsarhossain-find-job.surge.sh/" target="_blank">Find Job</a></td>
-      <td>"𝗙𝗶𝗻𝗱 𝗝𝗼𝗯" designed to help users easily discover and apply for jobs across various categories such as 𝙤𝒏𝙨𝒊𝙩𝒆, 𝙧𝒆𝙢𝒐𝙩𝒆, 𝙛𝒖𝙡𝒍-𝒕𝙞𝒎𝙚, 𝒑𝙖𝒓𝙩-𝙩𝒊𝙢𝒆, 𝙖𝒏𝙙 𝙝𝒚𝙗𝒓𝙞𝒅. Users can apply for as many jobs as they wish, with each application triggering a toast notification and saving the job ID in the browser's local storage. This allows them to view their applied jobs even after returning to the site later. The "𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗝𝗼𝗯𝘀" section also features filters based on job type, making it easier to manage applications. We're currently working on a blog section, which will be added in the future.</td>
+      <td>"𝗙𝗶𝗻𝗱 𝗝𝗼𝗯" designed to help users easily discover and apply for jobs across various categories such as 𝙤𝒏𝙨𝒊𝙩𝒆, 𝙧𝒆𝙢𝒐𝙩𝒆, 𝙛𝒖𝙡𝒍-𝒕𝙞𝒎𝙚, 𝒑𝙖𝒓𝙩-𝙩𝒊𝙢𝒆, 𝙖𝒏𝙙 𝙝𝒚𝙗𝒓𝙞𝒅. Users can apply for as many jobs as they wish, with each application triggering a toast notification and saving the job ID in the browser's local storage. This allows them to view their applied jobs even after returning to the site later.</td>
       <td>HTML, CSS, Tailwind, DaisyUI, JavaScript, ES6, API, React, React Router</td>
       <td><a href="https://github.com/MdAfsarHossain/Find-Job-React" target="_blank">Click</a></td>
     </tr>
     <tr>
       <td><a href="https://mdafsarhossain-gadget-heaven.surge.sh/" target="_blank">Gadget Heaven </a></td>
-      <td>Gadget Heaven is an e-commerce platform dedicated to selling the latest gadgets. It features a structured navigation bar, category-based sidebar, and individual product pages with detailed specifications. Users can add items to a shopping cart or wishlist, view a summary dashboard, and sort items by price. Using the Context API the platform supports data persistence for cart and wishlist functionalities. The responsive design ensures a smooth user experience across devices, and unique elements, such as a modal-based purchase confirmation and price vs. product stats chart, enhance engagement.</td>
+      <td>Gadget Heaven is an e-commerce platform dedicated to selling the latest gadgets. It features a structured navigation bar, category-based sidebar, and individual product pages with detailed specifications. Users can add items to a shopping cart or wishlist, view a summary dashboard, and sort items by price.</td>
       <td>HTML, CSS, Tailwind, DaisyUI, JavaScript, ES6, API, React, React Router</td>
       <td><a href="https://github.com/MdAfsarHossain/Gadget-Heaven-React" target="_blank">Click</a></td>
-    </tr>
-      <tr>
-      <td><a href="http://mdafsarhossain-squad-builder-bpl.surge.sh/" target="_blank">Squad Builder BPL</a></td>
-      <td>Squad Builder BPL is an interactive website designed for the upcoming Bangladesh Premier League, allowing cricket teams to build their dream squad by selecting players from various countries. The platform showcases player details such as images, names, roles, countries, and bidding prices. Each team can choose up to 6 players, adhering to a set budget. If a player is already selected or exceeds the budget, notifications alert the user. The total budget can be increased by claiming free credits. The site features a responsive design, including a navbar, banner, player sections, newsletter, and footer, ensuring a seamless experience across all devices..</td>
-      <td>HTML, CSS, Tailwind, DaisyUI, JavaScript, ES6, API, React</td>
-      <td><a href="https://github.com/MdAfsarHossain/Squad-Builder-BPL-React" target="_blank">Click</a></td>
-    </tr>
-     <tr>
-      <td><a href="https://mdafsarhossain-book-store.netlify.app/" target="_blank">Book Store</a></td>
-      <td>The "𝗕𝗼𝗼𝗸 𝗦𝘁𝗼𝗿𝗲" website allows users to explore a wide selection of books, view detailed information, and manage their reading lists. Each book detail page includes "𝗪𝗶𝘀𝗵𝗹𝗶𝘀𝘁" and "𝗥𝗲𝗮𝗱" buttons. When users add a book to either list, the book's ID is saved in the browser's 𝗹𝗼𝗰𝗮𝗹 𝘀𝘁𝗼𝗿𝗮𝗴𝗲, ensuring the lists persist across sessions. If a book is already read, it cannot be added to the wishlist again. Toast notifications confirm when a book is added to either list. The site also features sections for 𝘁𝗿𝗮𝗰𝗸𝗶𝗻𝗴 wishlist and read books, along with a "𝗣𝗮𝗴𝗲𝘀 𝗥𝗲𝗮𝗱" section that displays how many books and pages the user has read.</td>
-      <td>HTML, CSS, Tailwind, DaisyUI, JavaScript, ES6, API, React</td>
-      <td><a href="https://github.com/MdAfsarHossain/Book-Store-React" target="_blank">Click</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://mdafsarhossain-fur-angels-haven.surge.sh/" target="_blank">Fur Angels</a></td>
-      <td>Fur Angels Haven is a responsive pet adoption website featuring a Navbar, Banner, Categories, Pets Display, and Footer section. The site dynamically displays all pet categories fetched from an API, allowing users to filter pets by category. Each pet card displays key details such as image, name, breed, birth, gender, price, pet details, and vaccination status. Users can like pets, view their details, and adopt them through a modal confirmation with a countdown. After adopting a pet, users cannot adopt the same pet again, and the Adopt button is disabled. The website adapts seamlessly to mobile, tablet, and desktop views.</td>
-      <td>HTML, CSS, Tailwind, DaisyUI, JavaScript, ES6, API</td>
-      <td><a href="https://github.com/MdAfsarHossain/Fur-Angels-API" target="_blank">Click</a></td>
     </tr>
   </tbody>
 </table>
